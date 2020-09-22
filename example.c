@@ -2,7 +2,6 @@
  * Simple example demonstrating arena allocator usage
  */
 
-#define ARENA_IMPLEMENTATION
 #include "arena.h"
 
 int main(void) {
