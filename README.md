@@ -42,6 +42,7 @@ Good for:
 - Game engines (per-frame data)
 - Temporary processing buffers
 - Any bulk allocation/deallocation
+- Json Parsing
 
 Not good for:
 - Long-lived objects
